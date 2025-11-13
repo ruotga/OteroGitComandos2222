@@ -1,4 +1,8 @@
 Primeros pasos
  1- git clone https://github.com/ruotga/OteroGitComandos
  2- touch respuestas.txt
- 3- echo Rubén >> respuestas.txt
+ 3- git add .
+ 4- git commit -m "Primeros pasos"
+ 5- git push origin main
+ 6- git checkout -b primeras
+EJ1
