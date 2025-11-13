@@ -6,3 +6,6 @@ Primeros pasos
  5- git push origin main
  6- git checkout -b primeras
 EJ1
+ 1- git add .
+ 2- git commit -m "Añado comandos preparación"
+EJ2
