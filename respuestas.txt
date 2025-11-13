@@ -9,3 +9,6 @@ EJ1
  1- git add .
  2- git commit -m "Añado comandos preparación"
 EJ2
+ 1- git add .
+ 2- git commit -m "Añado comandos preparación"
+EJ3
