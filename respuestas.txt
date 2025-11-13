@@ -1,0 +1,4 @@
+Primeros pasos
+ 1- git clone https://github.com/ruotga/OteroGitComandos
+ 2- touch respuestas.txt
+ 3- echo Rubén >> respuestas.txt
